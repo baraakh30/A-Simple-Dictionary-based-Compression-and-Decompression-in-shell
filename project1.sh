@@ -1,8 +1,6 @@
 #!/bin/bash
 
-#Name : Baraa Khanfar , 1210640
-#Partner : Diana Quran , 1201208
-#Sec : 4
+
 declare -A dictionary #  compression dictionary
 declare -A dictionary2 # decomprission dictionary 
 
